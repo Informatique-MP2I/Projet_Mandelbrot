@@ -1,0 +1,5 @@
+# Ignorer les fichiers de sauvegarde
+*~
+
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
